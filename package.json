@@ -1,8 +1,8 @@
 {
-  "name": "zyn-hub",
+  "name": "zynn",
   "version": "1.0.0",
-  "scripts": {
-    "start": "node api/index.js"
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "express": "^4.18.0"
